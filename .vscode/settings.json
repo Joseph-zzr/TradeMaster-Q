@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/root/anaconda3/bin/python",
+    "jupyter.jupyterServer.kernelPath": "/root/anaconda3/bin/python"
+}
